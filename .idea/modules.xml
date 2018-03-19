@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Prectisetry.iml" filepath="$PROJECT_DIR$/Prectisetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session08.iml" filepath="$PROJECT_DIR$/Session08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution.iml" filepath="$PROJECT_DIR$/Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread.iml" filepath="$PROJECT_DIR$/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise.iml" filepath="$PROJECT_DIR$/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdap.iml" filepath="$PROJECT_DIR$/sdap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdap3cz.iml" filepath="$PROJECT_DIR$/sdap3cz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testtry.iml" filepath="$PROJECT_DIR$/testtry.iml" />
+    </modules>
+  </component>
+</project>

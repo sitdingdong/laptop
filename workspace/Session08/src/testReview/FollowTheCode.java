@@ -18,17 +18,17 @@ public class FollowTheCode {
             public void f() {
                 System.out.println("xxx");
             }
-        }
+        };
 }
 
 
-class T {
+ class T {
     private int y;
     public T(int y) { System.out.println("t");
     }
     public void f() { System.out.println("f"); }
 }
-class S extends T {
+ class S extends T {
     private int x;
     public S(int x, int y) { 
         super(y);
@@ -39,4 +39,5 @@ class S extends T {
         super.f();
         System.out.println("testing");
     }
-}
+}}
+

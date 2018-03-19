@@ -64,4 +64,3 @@ abstract class D implements C {
 class E extends D {
     public void h() { System.out.println("h"); }
 }
-}

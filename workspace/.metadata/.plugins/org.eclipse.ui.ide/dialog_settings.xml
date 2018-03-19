@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\git552\新建文件夹\EE552_2017F\workspace\number"/>
+		<item value="C:\git552\新建文件夹\EE552_2017F\workspace\testttt"/>
+		<item value="C:\Users\丁\Desktop\新建文件夹 (3)\EE552_2017F\Netbeans\Session10"/>
+		<item value="C:\git552\新建文件夹 (2)\earthmoon\workspace\Session08"/>
+		<item value="C:\git552\新建文件夹 (2)\earthmoon\workspace"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>
